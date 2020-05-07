@@ -277,6 +277,12 @@ export default {
 
 <style lang="scss">
 @import url("https://use.typekit.net/bwi1epw.css");
+
+#sec_container {
+  padding: 0;
+  margin: 0;
+}
+
 #section-1 {
   width: 100vw;
   margin-top: -64px;
@@ -284,11 +290,6 @@ export default {
 
 #intro {
   width: 100%;
-}
-
-#sec_container {
-  padding: 0;
-  margin: 0;
 }
 
 #videoRow {
