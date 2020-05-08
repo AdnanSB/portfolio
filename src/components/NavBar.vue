@@ -3,10 +3,7 @@
     <v-toolbar app flat id="nav">
       <v-spacer></v-spacer>
       <v-spacer></v-spacer>
-      <v-toolbar-title
-        class="headline text-uppercase d-none d-md-block d-lg-block"
-        id="nav-bar"
-      >
+      <v-toolbar-title class="headline text-uppercase" id="nav-bar">
         <span class="font-weight-light white--text">
           <li>
             <a
