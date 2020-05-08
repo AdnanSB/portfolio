@@ -20,7 +20,7 @@
                   Hej og velkommen til mit portfolio!
                   <br />
                   Denne video er klippet samt redigeret i programmet Adobe
-                  Premiere Pro. Her vil du kunne være en lille smule om mig,
+                  Premiere Pro. Her vil du kunne lære en lille smule om mig,
                   mine interesser, hobbier, kompetencer og lidt andet.
                 </p>
               </v-col>
@@ -129,9 +129,9 @@
                   </h3>
 
                   <p>
-                    En af vores andre anden semesters opgaver, skulle vi lave en
-                    reklamefilm til CMS, der skulle illustere hvad de kan lære
-                    på kurset, samt hvordan de skulle håndtere kritiske
+                    I et af vores andre anden semesters opgaver, skulle vi lave
+                    en reklamefilm til CMS, der skulle illustere hvad de kan
+                    lære på kurset, samt hvordan de skulle håndtere kritiske
                     situationer, når de er ude på havet.
                   </p>
                 </v-col>
@@ -237,7 +237,7 @@
                   </h3>
 
                   <p>
-                    Derudover har vi fået denne her sjove opgave, hvor vi skulle
+                    Derudover har vi lavet denne sjove opgave, hvor vi skulle
                     genskabe hvilken som helst scene. Vi fik en begrænset mængde
                     tid, hvor vores gruppe valgte at lave danse scenen fra
                     filmen Joker.

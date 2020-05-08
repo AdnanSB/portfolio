@@ -23,7 +23,7 @@
               v-smooth-scroll="{ duration: 1000 }"
               id="link"
               class="white--text mr-5"
-              >Projects</a
+              >Projekter</a
             >
           </li>
           <li>
@@ -39,7 +39,7 @@
               href="mailto:adna0179@easv365.dk"
               id="link"
               class="white--text ml-5"
-              >Contact</a
+              >Kontakt</a
             >
           </li>
         </span>
