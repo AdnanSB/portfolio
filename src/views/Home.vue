@@ -130,7 +130,7 @@
 
                   <p>
                     I et af vores andre 2. semesters opgaver, skulle vi lave en
-                    reklamefilm til CMS, som skulle illustere hvad de kan lære
+                    reklamefilm til CMS, som skulle illustrere hvad de kan lære
                     på kurset. Samt hvordan de skulle håndtere kritiske
                     situationer, når de er ude på havet.
                   </p>
